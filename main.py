@@ -5,7 +5,7 @@ import scipy.stats as stats
 # Configuración para pantalla completa
 st.set_page_config(layout="wide")
 
-st.title("Pruebas de Independencia")
+st.title("Corridas")
 st.divider()
 
 # Función para realizar las operaciones
